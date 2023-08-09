@@ -1,9 +1,6 @@
 # Uplift Control Box Reverse Engineering
 Schematics for the Uplift Desk V2 Commercial 2-Leg 120V Control Box.
 
-MCU board with relays and accelerometer board removed:
-![MCU board with relays and accelerometer board removed](./control-box-mcu-board.png)
-
 ## Motivation
 I wanted to understand how my standing desk worked. I also wanted the schematics so that, if desired, I could replace the obscure microcontroller with a more developer-friendly alternative, such as something from the ESP32 family.
 
